@@ -61,6 +61,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun initMsgData() {
+
         repeat(2) {
             msgList.add(
                 Msg(
